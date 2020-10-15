@@ -1,3 +1,5 @@
+![](https://p2zk82o7hr3yb6ge7gzxx4ki-wpengine.netdna-ssl.com/wp-content/uploads/AWS-EC2.png)
+
 # aws-ec2-docker
 
 1. Criar uma instancia
